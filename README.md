@@ -1,2 +1,9 @@
 # Data-Analyzing-Project
-To get the price of a house based on different features and by using House_Sales_in_King_Count_USA data
+In this project we will go through 2 different data bases for analyzing the data frames and to point out the main trends and to build a model for the data
+## Tasks 
+1. Importing Data
+2. Data Wrangling
+3. Exploratory Data Analysis(EDA)
+4. Model development
+5. Model Refinement
+   
